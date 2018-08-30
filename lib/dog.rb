@@ -24,7 +24,7 @@ fido.name
 fido.name = "Fido"
 fido.name
 
-snoopy = Dog.new("Snoopy")
+snoopy = Dog.new("Beagle")
 snoopy.breed 
 
 snoopy.breed = "Beagle"
