@@ -17,11 +17,12 @@ end
 fido = Dog.new
 fido.name
 
-fido.name = "Snoopy"
+fido.name = "Fido"
 fido.name
 
+snoopy = Dog.new 
+snoopy.breed 
 
-
-
-
+snoopy.breed = "Beagle"
+snoopy.breed 
 
